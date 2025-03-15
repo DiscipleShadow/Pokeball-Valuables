@@ -1,9 +1,9 @@
 {
   "name": "Pokeball_Valuables",
   "description": "Adds Valuable Pokeballs",
-  "version_number": "1.0.1",
+  "version_number": "1.1.0",
   "dependencies": [
     "Zehs-REPOLib-1.0.0"
   ],
-  "website_url": "https://github.com/Shadowkurou"
+  "website_url": "https://github.com/DiscipleShadow"
 }
