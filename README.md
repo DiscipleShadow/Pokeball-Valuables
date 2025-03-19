@@ -1,6 +1,6 @@
 # Pokeball Valuables
 ### Author: DiscipleShadow
-### Version: 1.1.0
+### Version: 1.1.1
 
 #### This mod adds Pokeballs as a valuable item to the game.
 
