@@ -1,7 +1,7 @@
 {
   "name": "Pokeball_Valuables",
   "description": "Adds Valuable Pokeballs",
-  "version_number": "1.1.1",
+  "version_number": "1.1.2",
   "dependencies": [
     "Zehs-REPOLib-1.0.0"
   ],
